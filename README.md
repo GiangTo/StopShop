@@ -1,7 +1,7 @@
 {
 	"manifest_version":2,
 
-	"name": "INspendTIONAL",
+	"name": "StopShop",
 	"description": "This extension helps you with impulse online shopping.",
 	"version": "1.0",
 
