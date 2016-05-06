@@ -1,2 +1,2 @@
 # StopShop
-Addresses impulse online shopping
+Helps you save money when online shopping
